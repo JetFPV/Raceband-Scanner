@@ -5,7 +5,7 @@ The result is shown on the device using LEDs and a screen can be added to view t
 The device can be used on the field using a lipo battery (3s minimum) or at home with usb.**
 
 <img src="docs/Raceband Scanner 3.jpg" align="left" width="200">
-<img src="docs/Graph.jpg" align="left"width="200">
+<img src="docs/Graph.jpg" align="left" width="200">
 <img src="docs/Raceband Scanner 2.jpg" align="left" width="200">     
 
 <br><br><br><br><br><br><br>
@@ -78,9 +78,9 @@ STL file is available in 3D case folder.
 Print in PLA with 100% infill.
 You will need 8 small M2 screws (3 / 4mm) to assemble PCB into the case and close the lid.
 
-<img src="docs/uFPVscanner v40 close.png" alt="Logo" width="200"/>
-<img src="docs/uFPVscanner v40 open.png" alt="Logo" width="200"/>
-<img src="docs/Open.jpg.png" alt="Logo" width="200"/>
+<img src="docs/uFPVscanner v40 close.png" align="left" width="200"/>
+<img src="docs/uFPVscanner v40 open.png" align="left" width="200"/>
+<img src="docs/Open.jpg.png" align="left" width="200"/>
 
 <a name="arduino-code"></a>
 ## Arduino Code
