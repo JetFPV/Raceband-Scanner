@@ -91,7 +91,7 @@ You will need 8 small M2 screws (3 / 4mm) to assemble PCB into the case and clos
 <a name="arduino-code"></a>
 ## Arduino Code
 
-Download the project from Arduino folder, open **Raceband_Scanner.ino** file with Arduino IDE and upload to the arduino.
+Download the project from Arduino folder, open **Raceband_Scanner.ino** file with Arduino IDE (https://www.arduino.cc/en/main/software) and upload to the arduino nano.
 In Arduino IDE -> Sketch -> Include Library -> Manage Libraries, search and install for **"FastLED"** and **"TVout"**
 
 Note : FastLED might give you a warning message about version compatibility during upload which is OK.
