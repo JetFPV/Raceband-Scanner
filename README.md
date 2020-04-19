@@ -68,8 +68,8 @@ Don't forget to set DC-DC Stepdown cenverter to 9V-10V using a small screwdriver
 I noticed 12V is too much for the arduino (at least for a clone...).
 
 <img src="docs/Raceband Scanner - electrical scheme V1.jpg" align="left" alt="Logo" width="200"/>
-<img src="docs/wiring-front.jpg" alt="Logo" width="200"/>
-<img src="docs/wiring-back.jpg" alt="Logo" width="200"/>
+<img src="docs/wiring-front.jpg" align="left" width="200"/>
+<img src="docs/wiring-back.jpg" align="left" width="200"/>
 
 <a name="3dcase"></a>
 ## 3D Case
@@ -77,11 +77,11 @@ I noticed 12V is too much for the arduino (at least for a clone...).
 STL file is available in 3D case folder.
 Print in PLA with 100% infill.
 You will need 8 small M2 screws (3 / 4mm) to assemble PCB into the case and close the lid.
-<br><div>
+
 <img src="docs/uFPVscanner v40 close.png" align="left" width="200"/>
-<img src="docs/uFPVscanner v40 open.png" align="left" width="1500"/>
-<img src="docs/Open.jpg.png" align="left" width="150"/>
-<br></div>
+<img src="docs/uFPVscanner v40 open.png" align="left" width="00"/>
+<img src="docs/Open.jpg.png" align="left" width="200"/>
+
 <a name="arduino-code"></a>
 ## Arduino Code
 
