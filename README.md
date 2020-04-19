@@ -3,7 +3,7 @@
 **This device is a  scanner for the RaceBand 5.8G to check available channels for FPV Pilots.  
 The result is shown on the device using LEDs and a screen can be added to view the scanning graph or display the video feed from the selected channel. The device can be used on the field using a lipo battery (3 to 6S) or at home with micro usb.**  
 
-<p align="center">
+<p align="left">
   <img src="docs/Raceband Scanner 3.jpg" width="300">
   <img src="docs/Graph.jpg" width="300">
   <img src="docs/Raceband Scanner 2.jpg" width="300">
@@ -70,9 +70,11 @@ Use the schematic and pictures bellow to locate the component exactly the same i
 Don't forget to set DC-DC Stepdown cenverter to 9V-10V using a small screwdriver and a multimeter.<br>
 I noticed 12V is too much for the arduino (at least for a clone...).
 
+<p align="left">
 <img style="float: right;" src="docs/Raceband Scanner - electrical scheme V1.jpg" align="left" alt="Logo" width="200"/>
 <img style="float: right;" src="docs/wiring-front.jpg" align="left" width="200"/>
 <img style="float: right;" src="docs/wiring-back.jpg" align="left" width="200"/>
+</p>
 
 <a name="3dcase"></a>
 ## 3D Printed Case
@@ -81,10 +83,11 @@ STL file is available in 3D case folder.
 Print in PLA with 100% infill.   
 You will need 8 small M2 screws (3 / 4mm) to assemble PCB into the case and close the lid.    
 
+<p align="left">
 <img src="docs/uFPVscanner v40 close.png" align="left" width="300"/>
 <img src="docs/uFPVscanner v40 open.png" align="left" width="300"/>
 <img src="docs/Open.jpg" align="left" width="200"/>
-<br><br><br><br><br><br><br>
+</p>
 
 <a name="arduino-code"></a>
 ## Arduino Code
