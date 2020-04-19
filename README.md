@@ -67,9 +67,9 @@ Use the schematic and pictures bellow to locate the component exactly the same i
 Don't forget to set DC-DC Stepdown cenverter to 9V-10V using a small screwdriver and a multimeter.<br>
 I noticed 12V is too much for the arduino (at least for a clone...).
 
-<img src="docs/Raceband Scanner - electrical scheme V1.jpg" align="left" alt="Logo" width="250"/>
-<img src="docs/wiring-front.jpg" alt="Logo" width="250"/>
-<img src="docs/wiring-back.jpg" alt="Logo" width="250"/>
+<img src="docs/Raceband Scanner - electrical scheme V1.jpg" align="left" alt="Logo" width="200"/>
+<img src="docs/wiring-front.jpg" alt="Logo" width="200"/>
+<img src="docs/wiring-back.jpg" alt="Logo" width="200"/>
 
 <a name="3dcase"></a>
 ## 3D Case
@@ -78,7 +78,9 @@ STL file is available in 3D case folder.
 Print in PLA with 100% infill.
 You will need 8 small M2 screws (3 / 4mm) to assemble PCB into the case and close the lid.
 
-<img src="docs/img/chorus_assembly.png" alt="Assembly of a Chorus Device" width="900">
+<img src="docs/uFPVscanner v40 close.png" alt="Logo" width="200"/>
+<img src="docs/uFPVscanner v40 open.png" alt="Logo" width="200"/>
+<img src="docs/Open.jpg.png" alt="Logo" width="200"/>
 
 <a name="arduino-code"></a>
 ## Arduino Code
