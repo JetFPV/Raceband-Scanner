@@ -1,13 +1,10 @@
 # Raceband Scanner
 
-<img src="docs/img/logo.png" align="left" alt="Logo" width="200"/>
+<img src="docs/Raceband Scanner 3.jpg" align="left" alt="Logo" width="200"/>
 
-**NOTE: This project is currently in a "public beta" stage. Changes to schematic and software are very likely. Feel free to contribute and/or share your usage results to improve the project.**
-
-This device is a  scanner for the raceband to check available channels for FPV Pilots. The result is shown on the device using LEDs. 
+**This device is a  scanner for the raceband to check available channels for FPV Pilots. The result is shown on the device using LEDs. 
 A screen can be added to view the scanning graph and can also be used to view the video feed from the selected channel.
-The device can be used on the field using a lipo battery (3s minimum) or at home with usb.
-
+The device can be used on the field using a lipo battery (3s minimum) or at home with usb.**
 
 ## NEWS FEED:
 ------------------------------------------------
