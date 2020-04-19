@@ -31,10 +31,10 @@ The device can be used on the field using a lipo battery (3s minimum) or at home
 
 <a name="features"></a>
 ## Features
-- 3 modes included : Manual / Automatic / Scanner
-	=> Manual : Press Select to change the channel
-	=> Automatic : Press Select to change automatically on the chnannel whith highest signal (RSSI)
-	=> Scanner : Display available channels on the LEDs and show graph on the screen
+- 3 modes included : Manual / Automatic / Scannerw<br>
+	=> Manual : Press Select to change the channel<br>
+	=> Automatic : Press Select to change automatically on the chnannel whith highest signal (RSSI)<br>
+	=> Scanner : Display available channels on the LEDs and show graph on the screen<br>
 - Power supply by Lipo battery (3s minimum) or USB Port (for the device only, use external for the screen in that case)
 - Lipo voltage monitoring : Display level of batery when plugging the battery and check if low during usage (turn red + beep)
 
@@ -60,10 +60,10 @@ The device can be used on the field using a lipo battery (3s minimum) or at home
 <a name="wiring"></a>
 ## Wiring
 
-I used the PCB Prototype 50x70 board for wiring.
+I used the PCB Prototype 50x70 board for wiring.<br>
 Use the schematic and pictures bellow to locate the component exactly the same if you intend to use the 3D Printed case, especially XT60, 2 x buttons, toggle switch and arduino nano
 
-Don't forget to set DC-DC Stepdown cenverter to 9V-10V using a small screwdriver and a multimeter.
+Don't forget to set DC-DC Stepdown cenverter to 9V-10V using a small screwdriver and a multimeter.<br>
 I noticed 12V is too much for the arduino (at least for a clone...).
 
 <a name="3dcase"></a>
