@@ -31,10 +31,10 @@ The device can be used on the field using a lipo battery (3s minimum) or at home
 
 <a name="features"></a>
 ## Features
-- 3 modes included : Manual / Automatic / Scannerw<br>
-	=> Manual : Press Select to change the channel<br>
-	=> Automatic : Press Select to change automatically on the chnannel whith highest signal (RSSI)<br>
-	=> Scanner : Display available channels on the LEDs and show graph on the screen<br>
+- 3 modes included : Manual / Automatic / Scannerw    
+	=> Manual : Press Select to change the channel    
+	=> Automatic : Press Select to change automatically on the chnannel whith highest signal (RSSI)   
+	=> Scanner : Display available channels on the LEDs and show graph on the screen    
 - Power supply by Lipo battery (3s minimum) or USB Port (for the device only, use external for the screen in that case)
 - Lipo voltage monitoring : Display level of batery when plugging the battery and check if low during usage (turn red + beep)
 
