@@ -31,7 +31,9 @@ The result is shown on the device using LEDs and a screen can be added to view t
 
 <a name="features"></a>
 ## Features
-- 3 modes included : Manual / Automatic / Scannerw    
+- Can display video from the drone on the 5,8Ghz Raceband
+- Can scan the 8 channels to check if there is a signal and display result on Led and screen if available
+- 3 modes included : Manual / Automatic / Scanner    
 	=> Manual : Change manually channel from R1 to R8    
 	=> Automatic : Switch to channel whith highest signal on   
 	=> Scanner : Display available channels on the LEDs and show graph on the screen    
