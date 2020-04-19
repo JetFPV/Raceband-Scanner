@@ -94,15 +94,16 @@ The code is distrubuted under the MIT license.
 <a name="contributors"></a>
 ## Contributors
 
-Contributors are very welcome, I'm not either a professional developper nor a professional electronician and the code and schematic can probably be improved a lot
+Contributors are very welcome, I'm not either a professional developper nor a professional electronician.<br>
+The code and schematic can probably be improved a lot.
 
 For next versions, here is a list of possible improvement in my head :
 - Custom PCB
+- Use interuptions for better reaction of buttons
 - Slide button with 6 poles instead of toggle switch to get input from the video switch and therefore be used as Mode button (Video <=> Scanner)
 - Have only one button
 - Make it smaller
 - Integrate DC screen supply & video directly in the case
-
 
 Feel free to ask questions, suggest improvements, report your usage results.
 
