@@ -1,8 +1,8 @@
 # Raceband Scanner
 
 <div>
-<img src="docs/Raceband Scanner 3.jpg" align="left" width="250" border="2"/>
-<img src="docs/Graph.jpg" align="middle" width="250" border="2"/>
+<img src="docs/Raceband Scanner 3.jpg" align="left" width="250" border="2"/</div>
+<div><img src="docs/Graph.jpg" width="250" border="2"/>
 <img src="docs/Raceband Scanner 2.jpg" width="250" border="2"/>
 </div>
 <br>
