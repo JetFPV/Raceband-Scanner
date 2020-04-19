@@ -107,5 +107,5 @@ For next versions, here is a list of possible improvement in my head :
 
 Feel free to ask questions, suggest improvements, report your usage results.
 
-Happy flying!!!
+=> Happy flying ! <=
 
