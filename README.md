@@ -1,8 +1,7 @@
 # Raceband Scanner
 
 **This device is a  scanner for the RaceBand 5.8G to check available channels for FPV Pilots.  
-The result is shown on the device using LEDs and a screen can be added to view the scanning graph or to view the video feed from the selected channel.   
-The device can be used on the field using a lipo battery (3s minimum) or at home with usb.**
+The result is shown on the device using LEDs and a screen can be added to view the scanning graph or display the video feed from the selected channel. The device can be used on the field using a lipo battery (3 to 6S) or at home with micro usb.**
 
 <img src="docs/Raceband Scanner 3.jpg" align="left" width="200">
 <img src="docs/Graph.jpg" align="left" width="200">
@@ -24,7 +23,7 @@ The device can be used on the field using a lipo battery (3s minimum) or at home
 - [Wiring](#wiring)
 - [3D Case](#3d-case)
 - [Arduino Code](#arduino-code)
-- [Setup and Usage Guide](#setup-and-usage-guide)
+- [User Guide](#user-guide)
 - [Recognition](#recognition)
 - [Contributors](#contributors)
 
@@ -33,11 +32,12 @@ The device can be used on the field using a lipo battery (3s minimum) or at home
 <a name="features"></a>
 ## Features
 - 3 modes included : Manual / Automatic / Scannerw    
-	=> Manual : Press Select to change the channel    
-	=> Automatic : Press Select to change automatically on the chnannel whith highest signal (RSSI)   
+	=> Manual : Change manually channel from R1 to R8    
+	=> Automatic : Switch to channel whith highest signal on   
 	=> Scanner : Display available channels on the LEDs and show graph on the screen    
-- Power supply by Lipo battery (3s minimum) or USB Port (for the device only, use external for the screen in that case)
+- Power supply by Lipo battery (3 to 6S) or Micro USB Port (for the device only, use external power for the screen in that case)
 - Lipo voltage monitoring : Display level of batery when plugging the battery and check if low during usage (turn red + beep)
+- Mario Bross sounds ;-)
 
 <a name="used-parts"></a>
 ## Used parts
@@ -93,6 +93,25 @@ In Arduino IDE -> Sketch -> Include Library -> Manage Libraries, search and inst
 Note : FastLED might give you a warning message about version compatibility during upload which is OK.
 
 The code is distrubuted under the MIT license.
+
+<a name="user-guide"></a>
+## User Guide
+
+When powered with LIPO, first bargraph show LIPO Status :
+- 4 to 8 LEDs ON = Green => OK (about >3,8V / Cell)
+- 2 to 3 LEDs ON = Orange => Storage (about 3,5 to 3,8V / Cell)
+- 1 LED = Red => Low Battery (<3.5V / Cell)
+
+Then Lipo show **Blue** Led showing selected channel.
+   
+**Buttons :**
+- BLACK => Change Mode (Show the mode in **purple** LED)
+- YELLOW => Select
+    
+**MODE button switch between modes :**
+- Mode 1 (1 purple led) : Manual change of channel with Select button
+- Mode 2 (2 purple leds) : Search for channel with highest signal when pressing select
+- Mode 3 (3 purple leds) : Scanner mode, show green for available channels and red for busy channel
 
 <a name="recognition"></a>
 ## Recognition
