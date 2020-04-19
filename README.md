@@ -77,11 +77,11 @@ I noticed 12V is too much for the arduino (at least for a clone...).
 STL file is available in 3D case folder.
 Print in PLA with 100% infill.
 You will need 8 small M2 screws (3 / 4mm) to assemble PCB into the case and close the lid.
-
+<br><div>
 <img src="docs/uFPVscanner v40 close.png" align="left" width="200"/>
 <img src="docs/uFPVscanner v40 open.png" align="left" width="1500"/>
 <img src="docs/Open.jpg.png" align="left" width="150"/>
-
+<br></div>
 <a name="arduino-code"></a>
 ## Arduino Code
 
