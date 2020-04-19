@@ -7,9 +7,9 @@ The result is shown on the device using LEDs and a screen can be added to view t
 <img src="docs/Graph.jpg" align="left" width="200">
 <img src="docs/Raceband Scanner 2.jpg" align="left" width="200">     
 
-<div>
+
 <br><br><br><br><br><br><br>
-</div>
+
 ## NEWS FEED:
 ------------------------------------------------
 - 2020-04: First version of the project released 
