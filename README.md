@@ -5,7 +5,7 @@
 **This device is a  scanner for the raceband to check available channels for FPV Pilots. The result is shown on the device using LEDs. 
 A screen can be added to view the scanning graph and can also be used to view the video feed from the selected channel.
 The device can be used on the field using a lipo battery (3s minimum) or at home with usb.**
-
+<br><br><br><br>
 ## NEWS FEED:
 ------------------------------------------------
 - 2020-04: First version of the project released 
