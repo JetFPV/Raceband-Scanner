@@ -22,7 +22,7 @@ The device can be used on the field using a lipo battery (3s minimum) or at home
 - [Used parts](#used-parts)
 - [Wiring](#wiring)
 - [3D Case](#3d-case)
-- [Arduino Software](#arduino-software)
+- [Arduino Code](#arduino-code)
 - [Setup and Usage Guide](#setup-and-usage-guide)
 - [Recognition](#recognition)
 - [Contributors](#contributors)
@@ -75,8 +75,8 @@ You will need 8 small M2 screws (3 / 4mm) to assemble PCB into the case and clos
 
 <img src="docs/img/chorus_assembly.png" alt="Assembly of a Chorus Device" width="900">
 
-<a name="arduino-software"></a>
-## Arduino Software
+<a name="arduino-code"></a>
+## Arduino Code
 
 Download the project from Arduino folder, open **Raceband_Scanner.ino** file with Arduino IDE and upload to the arduino.
 In Arduino IDE -> Sketch -> Include Library -> Manage Libraries, search and install for "FastLED" and "TVout"
