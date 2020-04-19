@@ -8,7 +8,8 @@ The result is shown on the device using LEDs and a screen can be added to view t
 <img src="docs/Raceband Scanner 2.jpg" align="left" width="200">     
 
 
-<br><br><br><br><br><br><br>
+<br>  
+<br><br><br><br><br><br>
 
 ## NEWS FEED:
 ------------------------------------------------
