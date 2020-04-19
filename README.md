@@ -7,6 +7,10 @@ A screen can be added to view the scanning graph and can also be used to view th
 The device can be used on the field using a lipo battery (3s minimum) or at home with usb.
 
 
+
+
+
+
 ## NEWS FEED:
 ------------------------------------------------
 - 2020-04: First version of the project released 
