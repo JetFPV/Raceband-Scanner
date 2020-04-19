@@ -10,7 +10,7 @@ The device can be used on the field using a lipo battery (3s minimum) or at home
 
 <br><br><br><br><br><br><br>
 
-## NEWS FEED:
+## NEWS FEED
 ------------------------------------------------
 - 2020-04: First version of the project released 
 ------------------------------------------------
