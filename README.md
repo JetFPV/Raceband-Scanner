@@ -79,8 +79,8 @@ STL file is available in 3D case folder.
 Print in PLA with 100% infill.
 You will need 8 small M2 screws (3 / 4mm) to assemble PCB into the case and close the lid.
 
-<img src="docs/uFPVscanner v40 close.png" align="left" width="200"/>
-<img src="docs/uFPVscanner v40 open.png" align="left" width="200"/>
+<img src="docs/uFPVscanner v40 close.png" align="left" width="300"/>
+<img src="docs/uFPVscanner v40 open.png" align="left" width="300"/>
 <img src="docs/Open.jpg" align="left" width="200"/>
 <br><br><br><br><br><br><br>
 
