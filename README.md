@@ -2,7 +2,7 @@
 
 <div>
 <img src="docs/Raceband Scanner 3.jpg" align="left" width="250"/>
-<img src="docs/Graph.jpg" align="middle" width="250"/>
+<img src="docs/Graph.jpg" align="center" width="250"/>
 <img src="docs/Raceband Scanner 2.jpg" align="right" width="250"/>
 </div>
 
