@@ -1,12 +1,14 @@
 # Raceband Scanner
 
-<img src="docs/Raceband Scanner 3.jpg" align="left" alt="Logo" width="250"/>
-<img src="docs/Graph.jpg" align="middle" alt="Logo" width="250"/>
-<img src="docs/Raceband Scanner 2.jpg" align="right" alt="Logo" width="250"/>
-
-**This device is a  scanner for the RaceBand 5.8G to check available channels for FPV Pilots. The result is shown on the device using LEDs. 
-A screen can be added to view the scanning graph and can also be used to view the video feed from the selected channel.
+**This device is a  scanner for the RaceBand 5.8G to check available channels for FPV Pilots.  
+The result is shown on the device using LEDs and a screen can be added to view the scanning graph or to view the video feed from the selected channel.   
 The device can be used on the field using a lipo battery (3s minimum) or at home with usb.**
+
+<img src="docs/Raceband Scanner 3.jpg" align="left" width="200">
+<img src="docs/Graph.jpg" align="left" width="200">
+<img src="docs/Raceband Scanner 2.jpg" align="left" width="200">     
+
+<br><br><br><br><br><br><br>
 
 ## NEWS FEED:
 ------------------------------------------------
@@ -30,10 +32,10 @@ The device can be used on the field using a lipo battery (3s minimum) or at home
 
 <a name="features"></a>
 ## Features
-- 3 modes included : Manual / Automatic / Scannerw<br>
-	=> Manual : Press Select to change the channel<br>
-	=> Automatic : Press Select to change automatically on the chnannel whith highest signal (RSSI)<br>
-	=> Scanner : Display available channels on the LEDs and show graph on the screen<br>
+- 3 modes included : Manual / Automatic / Scannerw    
+	=> Manual : Press Select to change the channel    
+	=> Automatic : Press Select to change automatically on the chnannel whith highest signal (RSSI)   
+	=> Scanner : Display available channels on the LEDs and show graph on the screen    
 - Power supply by Lipo battery (3s minimum) or USB Port (for the device only, use external for the screen in that case)
 - Lipo voltage monitoring : Display level of batery when plugging the battery and check if low during usage (turn red + beep)
 
@@ -65,9 +67,10 @@ Use the schematic and pictures bellow to locate the component exactly the same i
 Don't forget to set DC-DC Stepdown cenverter to 9V-10V using a small screwdriver and a multimeter.<br>
 I noticed 12V is too much for the arduino (at least for a clone...).
 
-<img src="docs/Raceband Scanner - electrical scheme V1.jpg" align="left" alt="Logo" width="250"/>
-<img src="docs/wiring-front.jpg" align="middle" alt="Logo" width="250"/>
-<img src="docs/wiring-back.jpg" align="right" alt="Logo" width="250"/>
+<img src="docs/Raceband Scanner - electrical scheme V1.jpg" align="left" alt="Logo" width="200"/>
+<img src="docs/wiring-front.jpg" align="left" width="200"/>
+<img src="docs/wiring-back.jpg" align="left" width="200"/>
+<br><br><br><br><br><br><br>
 
 <a name="3dcase"></a>
 ## 3D Case
@@ -76,13 +79,16 @@ STL file is available in 3D case folder.
 Print in PLA with 100% infill.
 You will need 8 small M2 screws (3 / 4mm) to assemble PCB into the case and close the lid.
 
-<img src="docs/img/chorus_assembly.png" alt="Assembly of a Chorus Device" width="900">
+<img src="docs/uFPVscanner v40 close.png" align="left" width="300"/>
+<img src="docs/uFPVscanner v40 open.png" align="left" width="300"/>
+<img src="docs/Open.jpg" align="left" width="200"/>
+<br><br><br><br><br><br><br>
 
 <a name="arduino-code"></a>
 ## Arduino Code
 
 Download the project from Arduino folder, open **Raceband_Scanner.ino** file with Arduino IDE and upload to the arduino.
-In Arduino IDE -> Sketch -> Include Library -> Manage Libraries, search and install for "FastLED" and "TVout"
+In Arduino IDE -> Sketch -> Include Library -> Manage Libraries, search and install for **"FastLED"** and **"TVout"**
 
 Note : FastLED might give you a warning message about version compatibility during upload which is OK.
 
