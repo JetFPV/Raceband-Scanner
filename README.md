@@ -3,8 +3,9 @@
 **This device is a  scanner for the RaceBand 5.8G to check available channels for FPV Pilots.  
 The result is shown on the device using LEDs and a screen can be added to view the scanning graph or display the video feed from the selected channel. The device can be used on the field using a lipo battery (3 to 6S) or at home with micro usb.**  
 <p align="center">
-  <img src="docs/Raceband Scanner 3.jpg" width="350" title="hover text">
-  <img src="docs/Raceband Scanner 3.jpg" width="350" alt="accessibility text">
+  <img src="docs/Raceband Scanner 3.jpg" width="200" title="hover text">
+  <img src="docs/Graph.jpg" width="200" alt="accessibility text">
+  <img src="docs/Raceband Scanner 2.jpg" width="200" title="hover text">
 </p>
 ![GitHub Logo](https://github.com/JetFPV/Raceband-Scanner/blob/master/docs/Raceband%20Scanner%203.jpg?raw=true){
    width:150px;
