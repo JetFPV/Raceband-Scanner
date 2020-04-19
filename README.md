@@ -33,7 +33,7 @@ The result is shown on the device using LEDs and a screen can be added to view t
 ## Features
 - 3 modes included : Manual / Automatic / Scannerw    
 	=> Manual : Change manually channel from R1 to R8    
-	=> Automatic : Switch to channel whith highest signal on
+	=> Automatic : Switch to channel whith highest signal on   
 	=> Scanner : Display available channels on the LEDs and show graph on the screen    
 - Power supply by Lipo battery (3 to 6S) or Micro USB Port (for the device only, use external power for the screen in that case)
 - Lipo voltage monitoring : Display level of batery when plugging the battery and check if low during usage (turn red + beep)
