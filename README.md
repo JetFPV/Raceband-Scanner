@@ -67,10 +67,9 @@ Use the schematic and pictures bellow to locate the component exactly the same i
 Don't forget to set DC-DC Stepdown cenverter to 9V-10V using a small screwdriver and a multimeter.<br>
 I noticed 12V is too much for the arduino (at least for a clone...).
 
-<img src="docs/Raceband Scanner - electrical scheme V1.jpg" align="left" alt="Logo" width="200"/>
-<img src="docs/wiring-front.jpg" align="left" width="200"/>
-<img src="docs/wiring-back.jpg" align="left" width="200"/>
-<br><br><br><br><br><br><br>
+<img style="float: right;" src="docs/Raceband Scanner - electrical scheme V1.jpg" align="left" alt="Logo" width="200"/>
+<img style="float: right;" src="docs/wiring-front.jpg" align="left" width="200"/>
+<img style="float: right;" src="docs/wiring-back.jpg" align="left" width="200"/>
 
 <a name="3dcase"></a>
 ## 3D Printed Case
