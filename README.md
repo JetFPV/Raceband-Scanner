@@ -4,7 +4,7 @@
 The device can be used on the field using a lipo battery (3s minimum) or at home with usb.**
 
 <img src="docs/Raceband Scanner 3.jpg" align="left" width="200">   
-<img src="docs/Graph.jpg" align="left" width="200">   
+<img src="docs/Graph.jpg" align="middle" width="200">   
 <img src="docs/Raceband Scanner 2.jpg" align="right" width="200"> 
 <br><br><br><br><br><br><br>
 
