@@ -42,20 +42,32 @@ The device can be used on the field using a lipo battery (3s minimum) or at home
 ### Used parts
 
 1x PCB Prototype board 50x70mm => https://banggood.app.link/N559qmOQJ5
+
 1x RX5808 Module 5.8G Receiver module => https://banggood.app.link/6v3u5r1tJ5
+
 1x Passive Buzzer 12mm (Optional) => https://banggood.app.link/EE6gt1oLJ5
+
 2x Push Buttons Switch Momentary => https://banggood.app.link/4OSGzJBLJ5 or from kit https://banggood.app.link/t9bOLoGLJ5
+
 1x DC-DC Step down converter (set to 9V) => https://banggood.app.link/IfqrpMOLJ5
+
 1x 8 LEDS WS2812 5050 RGB => https://banggood.app.link/PKKfUEVLJ5
+
 1x Arduino nano V3 : https://banggood.app.link/OwPY6x5LJ5
+
 5x Resistors => (2x 220 / 2x 1k / 1x 470)
+
 1x XT60 => https://banggood.app.link/CkOhsbz5N5
+
 8x M2 Screws 4mm
 
 *** Optional screen but nice to have :) ***
 1x TFT LCD FPV Mini Monitor Screen Displayer (Optional) => https://banggood.app.link/BduELWmQJ5
+
 1x RCA Female => https://banggood.app.link/1RLBWa3KJ5
+
 1x DC Male => https://banggood.app.link/rKf3vaM5N5
+
 1x 2 positions ON/ON switch : https://banggood.app.link/S85dgTBMJ5
 
 <a name="wiring"></a>
