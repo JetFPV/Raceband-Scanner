@@ -64,7 +64,7 @@ The result is shown on the device using LEDs and a screen can be added to view t
 ## Wiring
 
 I used the PCB Prototype 50x70 board for wiring.<br>
-Use the schematic and pictures bellow to locate the component exactly the same if you intend to use the 3D Printed case, especially XT60, 2 x buttons, toggle switch and arduino nano
+Use the schematic and pictures bellow to locate the component exactly the same if you intend to use the 3D Printed case, especially XT60, the 2 buttons and the arduino nano
 
 Don't forget to set DC-DC Stepdown cenverter to 9V-10V using a small screwdriver and a multimeter.<br>
 I noticed 12V is too much for the arduino (at least for a clone...).
