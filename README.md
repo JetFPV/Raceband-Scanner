@@ -1,6 +1,6 @@
 # Raceband Scanner
 
-<img src="docs/img/logo.png" align="left" alt="Logo" width="200"/>
+<img src="docs/Raceband Scanner 3.jpg" align="left" alt="Logo" width="300"/>
 
 **NOTE: This project is currently in a "public beta" stage. Changes to schematic and software are very likely. Feel free to contribute and/or share your usage results to improve the project.**
 
