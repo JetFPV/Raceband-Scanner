@@ -98,17 +98,17 @@ The code is distrubuted under the MIT license.
 <a name="user-guide"></a>
 ## User Guide
 
-When powered with LIPO, first bargraph show lIPO Status :
+When powered with LIPO, first bargraph show LIPO Status :
 - 4 to 8 LEDs ON = Green => OK (about >3,8V / Cell)
 - 2 to 3 LEDs ON = Orange => Storage (about 3,5 to 3,8V / Cell)
 - 1 LED = Red => Low Battery (<3.5V / Cell)
 
 Then Lipo show **Blue** Led showing selected channel.
-
+   
 Buttons :
 - BLACK => Change Mode (Show the mode in **purple** LED)
 - YELLOW => Select
-
+    
 MODE button switch between modes :
 - Mode 1 (1 purple led) : Manual change of channel with Select button
 - Mode 2 (2 purple leds) : Search for channel with highest signal when pressing select
