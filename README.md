@@ -86,7 +86,7 @@ You will need 8 small M2 screws (3 / 4mm) to assemble PCB into the case and clos
 <p align="left">
 <img src="docs/uFPVscanner v40 close.png"  width="300"/>
 <img src="docs/uFPVscanner v40 open.png" width="300"/>
-<img src="docs/Open.jpg" width="200"/>
+<img src="docs/Open.jpg" width="300"/>
 </p>
 
 <a name="arduino-code"></a>
