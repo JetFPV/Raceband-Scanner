@@ -4,7 +4,7 @@
 The result is shown on the device using LEDs and a screen can be added to view the scanning graph or display the video feed from the selected channel. The device can be used on the field using a lipo battery (3 to 6S) or at home with micro usb.**  
 
 <p align="left">
-  <img src="docs/Raceband Scanner 3.jpg" width="300">
+  <img src="docs/Raceband Scanner 3.jpg" width="300" border="5">
   <img src="docs/Graph.jpg" width="300">
   <img src="docs/Raceband Scanner 2.jpg" width="300">
 </p>
