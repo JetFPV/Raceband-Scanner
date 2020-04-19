@@ -1,10 +1,9 @@
 # Raceband Scanner
 
-<div>
-<img src="docs/Raceband Scanner 3.jpg" align="left" width="250" border="2"/</div>
-<div><img src="docs/Graph.jpg" width="250" border="2"/>
-<img src="docs/Raceband Scanner 2.jpg" width="250" border="2"/>
-</div>
+<div><img src="docs/Raceband Scanner 3.jpg" align="left" width="250" border="2"/</div>
+<div><img src="docs/Graph.jpg" width="250" border="2"/></div>
+<div><img src="docs/Raceband Scanner 2.jpg" width="250" border="2"/></div>
+
 <br>
 **This device is a  scanner for the RaceBand 5.8G to check available channels for FPV Pilots. The result is shown on the device using LEDs. 
 A screen can be added to view the scanning graph and can also be used to view the video feed from the selected channel.
