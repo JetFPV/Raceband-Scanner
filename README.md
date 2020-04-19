@@ -79,8 +79,8 @@ Print in PLA with 100% infill.
 You will need 8 small M2 screws (3 / 4mm) to assemble PCB into the case and close the lid.
 
 <img src="docs/uFPVscanner v40 close.png" align="left" width="200"/>
-<img src="docs/uFPVscanner v40 open.png" align="left" width="200"/>
-<img src="docs/Open.jpg.png" align="left" width="200"/>
+<img src="docs/uFPVscanner v40 open.png" align="left" width="1500"/>
+<img src="docs/Open.jpg.png" align="left" width="150"/>
 
 <a name="arduino-code"></a>
 ## Arduino Code
