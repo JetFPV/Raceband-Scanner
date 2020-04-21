@@ -118,7 +118,7 @@ Then Lipo show **Blue** Led showing selected channel.
 - Mode 3 (3 purple leds) : Scanner mode, show green for available channels and red for busy channel
 
 Vidéo :    
-[![Raceband Scanner Video](https://img.youtube.com/vi/Nt4esZHtKeY/mqdefault.jpg)](https://youtu.be/Nt4esZHtKeY)
+[![Raceband Scanner Video](https://img.youtube.com/vi/IBXWHqRhws8/mqdefault.jpg)](https://youtu.be/IBXWHqRhws8)
 
 <a name="recognition"></a>
 ## Recognition
