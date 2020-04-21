@@ -117,7 +117,7 @@ Then Lipo show **Blue** Led showing selected channel.
 - Mode 2 (2 purple leds) : Search for channel with highest signal when pressing select
 - Mode 3 (3 purple leds) : Scanner mode, show green for available channels and red for busy channel
 
-<p align="left">Vidéo :
+<p align="left">Vidéo :    
 [![Raceband Scanner Video](https://img.youtube.com/vi/Nt4esZHtKeY/mqdefault.jpg)](https://youtu.be/Nt4esZHtKeY)
 </p>
 
