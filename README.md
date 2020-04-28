@@ -5,7 +5,7 @@ The result is shown on the device using LEDs and a screen can be added to view t
 
 <p align="left">
   <img src="docs/Raceband Scanner 3.jpg" width="300">
-  <img src="docs/Graph.jpg" width="300">
+  <img src="docs/Graph2.jpg" width="300">
   <img src="docs/Raceband Scanner 2.jpg" width="300">
 </p>
 
