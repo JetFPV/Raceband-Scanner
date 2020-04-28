@@ -1,13 +1,13 @@
 # Raceband Scanner
 
 **This device is a  scanner for the RaceBand 5.8G to check available channels for FPV Pilots.  
-The result is shown on the device using LEDs and a screen can be added to view the scanning graph or display the video feed from the selected channel. The device can be used on the field using a lipo battery (3 to 6S) or at home with micro usb.**
+The result is shown on the device using LEDs and a screen can be added to view the scanning graph or display the video feed from the selected channel. The device can be used on the field using a lipo battery (3 to 6S) or at home with micro usb.**  
 
-<img src="docs/Raceband Scanner 3.jpg" align="left" width="200">
-<img src="docs/Graph.jpg" align="left" width="200">
-<img src="docs/Raceband Scanner 2.jpg" align="left" width="200">     
-
-<br><br><br><br><br><br><br>
+<p align="left">
+  <img src="docs/Raceband Scanner 3.jpg" width="300">
+  <img src="docs/Graph.jpg" width="300">
+  <img src="docs/Raceband Scanner 2.jpg" width="300">
+</p>
 
 ## NEWS FEED
 ------------------------------------------------
@@ -31,7 +31,9 @@ The result is shown on the device using LEDs and a screen can be added to view t
 
 <a name="features"></a>
 ## Features
-- 3 modes included : Manual / Automatic / Scannerw    
+- Can display video from the drone on the 5,8Ghz Raceband
+- Can scan the 8 channels to check if there is a signal and display result on Led and screen if available
+- 3 modes included : Manual / Automatic / Scanner    
 	=> Manual : Change manually channel from R1 to R8    
 	=> Automatic : Switch to channel whith highest signal on   
 	=> Scanner : Display available channels on the LEDs and show graph on the screen    
@@ -62,32 +64,34 @@ The result is shown on the device using LEDs and a screen can be added to view t
 ## Wiring
 
 I used the PCB Prototype 50x70 board for wiring.<br>
-Use the schematic and pictures bellow to locate the component exactly the same if you intend to use the 3D Printed case, especially XT60, 2 x buttons, toggle switch and arduino nano
+Use the schematic and pictures bellow to locate the component exactly the same if you intend to use the 3D Printed case, especially XT60, the 2 buttons and the arduino nano
 
 Don't forget to set DC-DC Stepdown cenverter to 9V-10V using a small screwdriver and a multimeter.<br>
 I noticed 12V is too much for the arduino (at least for a clone...).
 
-<img src="docs/Raceband Scanner - electrical scheme V1.jpg" align="left" alt="Logo" width="200"/>
-<img src="docs/wiring-front.jpg" align="left" width="200"/>
-<img src="docs/wiring-back.jpg" align="left" width="200"/>
-<br><br><br><br><br><br><br>
+<p align="left">
+<img src="docs/Raceband Scanner - electrical scheme V1.jpg" width="300"/>
+<img src="docs/wiring-front.jpg" width="300"/>
+<img src="docs/wiring-back.jpg" width="300"/>
+</p>
 
 <a name="3dcase"></a>
-## 3D Case
+## 3D Printed Case
 
-STL file is available in 3D case folder.
-Print in PLA with 100% infill.
-You will need 8 small M2 screws (3 / 4mm) to assemble PCB into the case and close the lid.
+STL file is available in 3D case folder.   
+Print in PLA with 100% infill.   
+You will need 8 small M2 screws (3 / 4mm) to assemble PCB into the case and close the lid.    
 
-<img src="docs/uFPVscanner v40 close.png" align="left" width="300"/>
-<img src="docs/uFPVscanner v40 open.png" align="left" width="300"/>
-<img src="docs/Open.jpg" align="left" width="200"/>
-<br><br><br><br><br><br><br>
+<p align="left">
+<img src="docs/uFPVscanner v40 close.png"  width="300"/>
+<img src="docs/uFPVscanner v40 open.png" width="300"/>
+<img src="docs/Open.jpg" width="300"/>
+</p>
 
 <a name="arduino-code"></a>
 ## Arduino Code
 
-Download the project from Arduino folder, open **Raceband_Scanner.ino** file with Arduino IDE and upload to the arduino.
+Download the project from Arduino folder, open **Raceband_Scanner.ino** file with Arduino IDE (https://www.arduino.cc/en/main/software) and upload to the arduino nano.
 In Arduino IDE -> Sketch -> Include Library -> Manage Libraries, search and install for **"FastLED"** and **"TVout"**
 
 Note : FastLED might give you a warning message about version compatibility during upload which is OK.
@@ -112,6 +116,8 @@ Then Lipo show **Blue** Led showing selected channel.
 - Mode 1 (1 purple led) : Manual change of channel with Select button
 - Mode 2 (2 purple leds) : Search for channel with highest signal when pressing select
 - Mode 3 (3 purple leds) : Scanner mode, show green for available channels and red for busy channel
+ 
+[![Raceband Scanner Video](https://img.youtube.com/vi/IBXWHqRhws8/0.jpg)](https://youtu.be/IBXWHqRhws8)
 
 <a name="recognition"></a>
 ## Recognition
