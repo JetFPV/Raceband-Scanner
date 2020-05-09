@@ -163,6 +163,7 @@ byte ChannelMaxRssi() {
     int   rssiMax = 0;
     for (byte i = 0; i < 8; i++) 
     {
+      rssi = 0;
       setChannelModule(i, 0);
       // Leave the time to switch frequency to RX5808
       delay (30);
