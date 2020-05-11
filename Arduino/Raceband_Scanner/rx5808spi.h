@@ -161,7 +161,7 @@ void setChannelModule(uint8_t channel, uint8_t band) {
 byte ChannelMaxRssi() {
     byte Channel = 0;
     int   rssiMax = 0;
-    for (byte i = 0; i < 8; i++) 
+    for (byte i = 1; i <= 8; i++) 
     {
       rssi = 0;
       setChannelModule(i, 0);
